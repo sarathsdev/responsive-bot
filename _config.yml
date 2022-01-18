@@ -1,0 +1,8 @@
+title: Azurebot
+description: This is the source code which runs the Microsoft AzureBot.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-merlot
+
+gems:
+  - jekyll-mentions
